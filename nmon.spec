@@ -80,3 +80,10 @@ install -Dp -m0644 nmon-script.cron %{buildroot}%{_sysconfdir}/cron.d/nmon-scrip
 
 %defattr(-, nobody, nobody, 0755)
 %{_localstatedir}/log/nmon/
+
+
+%changelog
+* Sat Dec 17 2011 Alexander Khrukin <akhrukin@mandriva.org> 14g-1
++ Revision: 743226
+- imported package nmon
+
