@@ -1,7 +1,7 @@
 Summary:	Performance analysis tool
 Name:		nmon
 Version:	14g
-Release:	1
+Release:	2
 License:	GPLv3
 Group:		Monitoring
 URL:		http://nmon.sourceforge.net/
