@@ -4,7 +4,7 @@ Version:	14g
 Release:	2
 License:	GPLv3
 Group:		Monitoring
-URL:		http://nmon.sourceforge.net/
+URL:		https://nmon.sourceforge.net/
 Source0:	http://dl.sf.net/sourceforge/nmon/lmon%{version}.c
 Source1:	http://dl.sf.net/sourceforge/nmon/makefile
 Source2:	http://dl.sf.net/sourceforge/nmon/Documentation.txt
